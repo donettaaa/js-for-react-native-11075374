@@ -1,0 +1,12 @@
+{
+  "name": "js-for-react-native-11075374",
+  "version": "1.0.0",
+  "description": "Student ID: 11075374\r ## Task 1\r The processArray function was implemented. the function takes an array of numbers and returns a new array where every even number is squared and every odd number is tripled.",
+  "main": "arrayManipulation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
